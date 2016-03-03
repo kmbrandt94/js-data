@@ -3,9 +3,9 @@
 ## Assignment Goals:
 
 - gain a deeper appreciation for how JavaScript variables are created scoped
-- create a JSON Data to represent an object
+- create JSON Data to represent an object
 - build a objects from JSON data
-- use DOM methods to add HTML to display the object
+- use jQuery Ajax methods to add HTML to display the object
 
 ## GitHub Repository
 https://github.com/htc-ccis2591/js-data/
@@ -16,7 +16,7 @@ You’ll want to begin each assignment by forking the repository and cloning it 
 A new section was added to the HTML to feature an item from the menu.  
 
 ### Put the Data into JSON
-Use the information below to write JSON to hold the featured items for the week.  Each featured item has a name, image, and description.  There are two featured items this week, but there may be more later, so they should be in an array.
+Use the information below to write JSON to hold the featured items for the week. Store this in a separate JSON file. Each featured item has a name, image, and description.  There are two featured items this week, *but* there may be more later, so put them in an array and make sure that your JavaScript can process any number of featured items.
 
 Item 1:
 
