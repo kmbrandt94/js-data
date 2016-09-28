@@ -4,7 +4,7 @@
 
 - gain a deeper appreciation for how JavaScript variables are created scoped
 - create JSON Data to represent an object
-- build a objects from JSON data
+- build objects from JSON data
 - use jQuery Ajax methods to add HTML to display the object
 
 ## GitHub Repository
